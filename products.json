@@ -1,0 +1,23 @@
+[
+  {
+    "nome":"Laptop Hp",
+    "categoria":"Elettronica",
+    "prezzo": "800"
+  },
+  {
+    "nome":"Scarpe Nike",
+    "categoria":"Sport",
+    "prezzo": "120"
+  },
+  {
+    "nome":"Smartphone Samsung",
+    "categoria":"Telefonia",
+    "prezzo": "500"
+  },
+  {
+    "nome":"Cuffie Bluetooth",
+    "categoria":"Accessori",
+    "prezzo": "100"
+  }
+
+]
